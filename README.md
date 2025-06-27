@@ -1,4 +1,4 @@
-# 🕒 Analog Clock
+# 🕒 Modern Analog Clock
 
 A simple and stylish analog clock built using **HTML**, **CSS**, and **JavaScript**.  
 It shows the current time with real-time rotation of the hour, minute, and second hands.
